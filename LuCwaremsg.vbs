@@ -1,0 +1,1 @@
+x=msgbox("By pressing OK, or closing this message box, you agree to BSOD your computer        (There is no going back, save everything before pressing OK or closing this) are u sure yes or no" ,0, "LuC")
